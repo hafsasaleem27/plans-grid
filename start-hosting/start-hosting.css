@@ -73,7 +73,7 @@ main {
 
 .signup-form button[type="submit"] {
     display: block;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
 }
 
 @media (min-width: 40rem) {
